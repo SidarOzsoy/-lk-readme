@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<personel>
+<ad>Sidar</ad>
+<soyad>Özsoy</soyad>
+<yas>20</yas>
+<departman>Bilgisayar Mühendisliği</departman>
+<stid>152120231129</stid>
+<ad>Mehmet</ad>
+<soyad>Yildirim</soyad> 
+<yas>20</yas>
+<departman>EEE  Mühendisliği</departman>
+<stid>152120231130</stid>
+<ad>Nicat</ad>
+<soyad>Memmedov</soyad> 
+<yas>20</yas>
+<departman> EEE Mühendisliği</departman>
+<stid>151220231131</stid>
+<ad> Ömer Faruk</ad>
+<soyad>YIlmaz</soyad>
+<yas>20</yas>
+<departman>Bilgisayar Mühendisliği</departman>
+<stid>152120231189</stid>
+</personel>
