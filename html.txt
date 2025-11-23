@@ -1,0 +1,6 @@
+html için basit giriş
+
+herhangi bir siteye girdigimiz zaman aslında yaptıgımız şey (aslında bilgisayarın yaptıgı)sunucudua tutulan sitelerin kodlarını(css) html
+formatında bizim monitorüze göndermesidir.Bizim bilgisayarımızda sitenin asıl kodları çalişmaz.
+
+html kodları iki <html> ve </html> arasında çalişır.
