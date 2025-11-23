@@ -1,0 +1,9 @@
+xml e basit giriş
+
+*xml genişletilmiş işaret dili
+xml verileri depolamak ve taşımak için tasarlanmiştır
+hem insan hemde makine tarafından okunabilir
+verileri bir platformdan diğer platforma taşıma işlemini kolaylaştırmak için tasarlanmiştır
+
+*html ile xml arasındai var html verileri görüntülemek için kulanılır
+*xml önceden tanımlanmamiş etiketleri kulanırken htmlin etiketleri önceden tanımlanmıştır
