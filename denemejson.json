@@ -1,0 +1,38 @@
+{
+  "ad": "Sidar",
+  "Soyad": "Özsoy",
+  "yas": 20,
+  "okul": {
+    "ad": "Esogu",
+    "Bolum": "Bilgisayar Muhendisligi",
+    "Sinif": 1,
+    "dersler": [
+      "Calculus",
+      "Fizik",
+      "Programlamaya Giris",
+      "Sayisal Tasarim"
+    ]
+  },
+  "Gördugu Dersler": {
+    "Calculus": {
+      "kredi": 4,
+      "hoca": "Prof. Dr. Dursun Eser",
+      "not": 80
+    },
+    "Fizik": {
+      "kredi": 3,
+      "hoca": "Dr. Öğr. Üyesi SELÇUK TEMİZ",
+      "not": 90
+    },
+    "Programlamaya Giris": {
+      "kredi": 5,
+      "hoca": "Dr. İbrahim Savran",
+      "not": 71
+    },
+    "Sayisal Tasarim": {
+      "kredi": 6,
+      "hoca": "Dr. Fatma Yildiz",
+      "not": 63
+    }
+  }
+}
